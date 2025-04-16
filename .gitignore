@@ -1,0 +1,4 @@
+# ignore 실습
+log.txt
+.env
+temp/
